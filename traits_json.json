@@ -1,0 +1,17 @@
+{
+    "cad": {
+        "score": 0.19827573395293104,
+        "nsnp": 1738589,
+        "score_percentile": 57
+    },
+    "brca": {
+        "score": -0.9114265000000005,
+        "nsnp": 313,
+        "score_percentile": 16
+    },
+    "prca": {
+        "score": -2.035167000000002,
+        "nsnp": 147,
+        "score_percentile": 55
+    }
+}
