@@ -1,0 +1,2 @@
+sample,vcf,ancestry,traits
+name_sample1,https://github.com/nf-core/test-datasets/raw/modules/data/genomics/homo_sapiens/illumina/vcf/test_annotate.vcf.gz,,
